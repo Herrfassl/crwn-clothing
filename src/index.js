@@ -6,6 +6,7 @@ import App from "./App";
 import { UserProvider } from "./contexts/user.context";
 
 import "./index.scss";
+
 const rootElement = document.getElementById("root");
 
 render(
