@@ -38,3 +38,10 @@ const CheckoutItem = ({ cartItem }) => {
 };
 
 export default CheckoutItem;
+
+;</div>
+    </div>
+  );
+};
+
+export default CheckoutItem;
